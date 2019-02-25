@@ -1,0 +1,21 @@
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/src/firebase/
+.firebaserc
+.firebase
+firebase.json
+package.json
+package-lock.json
+firestore.indexes.json
+firestore.rules
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
